@@ -1,0 +1,24 @@
+class Solution(object):
+    def dailyTemperatures(self, temperatures):
+        """
+        :type temperatures: List[int]
+        :rtype: List[int]
+        """
+        
+        # My solution (Not efficient)  
+        result = []
+
+        stack = []
+
+        for i in range(len(temperatures)):
+            j = i + 1
+            while (j < len(temperatures)) and (temperatures[j] <= temperatures[i]):
+                stack.append(temperatures[j])
+                j += 1
+            if j >= len(temperatures):
+                result.append(0)
+            else:
+                result.append(len(stack)+1)
+            del stack[:]
+
+        return result
