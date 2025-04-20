@@ -4,12 +4,12 @@
 
 ### Hashmaps
 * Two Sum
-* Two Sum II
-* 3Sum
 
 ### Prefix/Suffix Sums
 
 ### Sorting/Two Pointers
+* Two Sum II
+* 3Sum
 
 ### Sliding Window
 
