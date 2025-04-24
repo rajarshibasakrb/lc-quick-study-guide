@@ -16,3 +16,14 @@
 * Longest Repeating Character Replacement
 
 ### Monotonic Stack
+* Daily Tempeatures
+
+### Binary Search on Array
+* Search in Rotated Sorted Array
+
+### Binary Search on Others
+* Koko Eating Bananas
+
+### Doubly Linked Lists
+* LRU Cache
+
