@@ -39,5 +39,6 @@
 ### Two Branch Backtracking
 * Combination Sum
 
-
+### DFS or BFS on Adjacency List
+* Course Schedule
 
