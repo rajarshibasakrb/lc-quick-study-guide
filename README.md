@@ -44,3 +44,6 @@
 
 ### Multi-Source BFS
 * Rotting Oranges
+
+### Dynamic Programming
+* Longest Common Subsequence
